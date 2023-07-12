@@ -1,0 +1,5 @@
+Bruno Gasolina 70.00 Transporte 10/02 S
+Bruno Plantas 60.00 Planta 15 S
+Vitor RelogioCasio 300.00 Relogios 10 N
+da moto 105.00 transporte 12/07/23 N
+Bruno Bateria 105.00 Transporte 11/07/23 S
